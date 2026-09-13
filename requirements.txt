@@ -1,0 +1,9 @@
+pandas
+numpy
+scikit-learn
+joblib
+streamlit
+python-dotenv
+pypdf
+python-docx
+openpyxl
